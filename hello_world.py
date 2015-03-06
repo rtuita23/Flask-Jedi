@@ -13,7 +13,7 @@ def hello_person(name):
             Hello {}!
         </h1>
         <p>
-            Here's a picture of kitten. Awww...
+            Here's a picture of kitten. Enjoy...
         </p>
         <img src='http://placekitten.com/g/200/300'>
     '''
