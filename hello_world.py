@@ -36,4 +36,4 @@ def jedi_name(fname, lname):
     return html.format(fname.title(), lname.title(), jedi.title())
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8888)
+    app.run(host='0.0.0.0', port=8080)
